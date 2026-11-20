@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Disallow nothing - all public content is crawlable
+# Sitemaps
+Sitemap: https://greybrickdesigns.com/sitemap.xml
